@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/tyumen-777/etagitest/index.html/static/css/main.85c6b22c.chunk.css",
-    "main.js": "/tyumen-777/etagitest/index.html/static/js/main.72925ee3.chunk.js",
-    "main.js.map": "/tyumen-777/etagitest/index.html/static/js/main.72925ee3.chunk.js.map",
-    "runtime-main.js": "/tyumen-777/etagitest/index.html/static/js/runtime-main.988547ad.js",
-    "runtime-main.js.map": "/tyumen-777/etagitest/index.html/static/js/runtime-main.988547ad.js.map",
-    "static/js/2.dfcb36b1.chunk.js": "/tyumen-777/etagitest/index.html/static/js/2.dfcb36b1.chunk.js",
-    "static/js/2.dfcb36b1.chunk.js.map": "/tyumen-777/etagitest/index.html/static/js/2.dfcb36b1.chunk.js.map",
-    "static/css/3.72de8ba4.chunk.css": "/tyumen-777/etagitest/index.html/static/css/3.72de8ba4.chunk.css",
-    "static/js/3.65ae8ec2.chunk.js": "/tyumen-777/etagitest/index.html/static/js/3.65ae8ec2.chunk.js",
-    "static/js/3.65ae8ec2.chunk.js.map": "/tyumen-777/etagitest/index.html/static/js/3.65ae8ec2.chunk.js.map",
-    "index.html": "/tyumen-777/etagitest/index.html/index.html",
-    "static/css/3.72de8ba4.chunk.css.map": "/tyumen-777/etagitest/index.html/static/css/3.72de8ba4.chunk.css.map",
-    "static/css/main.85c6b22c.chunk.css.map": "/tyumen-777/etagitest/index.html/static/css/main.85c6b22c.chunk.css.map",
-    "static/js/2.dfcb36b1.chunk.js.LICENSE.txt": "/tyumen-777/etagitest/index.html/static/js/2.dfcb36b1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tyumen-777/etagitest/index.html/static/media/OpenSans-Regular.17e98b9e.ttf"
+    "main.css": "/etagitest/static/css/main.e88e35ce.chunk.css",
+    "main.js": "/etagitest/static/js/main.72925ee3.chunk.js",
+    "main.js.map": "/etagitest/static/js/main.72925ee3.chunk.js.map",
+    "runtime-main.js": "/etagitest/static/js/runtime-main.3919bb17.js",
+    "runtime-main.js.map": "/etagitest/static/js/runtime-main.3919bb17.js.map",
+    "static/js/2.dfcb36b1.chunk.js": "/etagitest/static/js/2.dfcb36b1.chunk.js",
+    "static/js/2.dfcb36b1.chunk.js.map": "/etagitest/static/js/2.dfcb36b1.chunk.js.map",
+    "static/css/3.72de8ba4.chunk.css": "/etagitest/static/css/3.72de8ba4.chunk.css",
+    "static/js/3.65ae8ec2.chunk.js": "/etagitest/static/js/3.65ae8ec2.chunk.js",
+    "static/js/3.65ae8ec2.chunk.js.map": "/etagitest/static/js/3.65ae8ec2.chunk.js.map",
+    "index.html": "/etagitest/index.html",
+    "static/css/3.72de8ba4.chunk.css.map": "/etagitest/static/css/3.72de8ba4.chunk.css.map",
+    "static/css/main.e88e35ce.chunk.css.map": "/etagitest/static/css/main.e88e35ce.chunk.css.map",
+    "static/js/2.dfcb36b1.chunk.js.LICENSE.txt": "/etagitest/static/js/2.dfcb36b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/etagitest/static/media/OpenSans-Regular.17e98b9e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.988547ad.js",
+    "static/js/runtime-main.3919bb17.js",
     "static/js/2.dfcb36b1.chunk.js",
-    "static/css/main.85c6b22c.chunk.css",
+    "static/css/main.e88e35ce.chunk.css",
     "static/js/main.72925ee3.chunk.js"
   ]
 }
