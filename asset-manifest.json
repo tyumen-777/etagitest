@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tyumen-777/etagitest/static/css/main.53250ccf.chunk.css",
+    "main.js": "/tyumen-777/etagitest/static/js/main.72925ee3.chunk.js",
+    "main.js.map": "/tyumen-777/etagitest/static/js/main.72925ee3.chunk.js.map",
+    "runtime-main.js": "/tyumen-777/etagitest/static/js/runtime-main.c9ee39f8.js",
+    "runtime-main.js.map": "/tyumen-777/etagitest/static/js/runtime-main.c9ee39f8.js.map",
+    "static/js/2.dfcb36b1.chunk.js": "/tyumen-777/etagitest/static/js/2.dfcb36b1.chunk.js",
+    "static/js/2.dfcb36b1.chunk.js.map": "/tyumen-777/etagitest/static/js/2.dfcb36b1.chunk.js.map",
+    "static/css/3.72de8ba4.chunk.css": "/tyumen-777/etagitest/static/css/3.72de8ba4.chunk.css",
+    "static/js/3.65ae8ec2.chunk.js": "/tyumen-777/etagitest/static/js/3.65ae8ec2.chunk.js",
+    "static/js/3.65ae8ec2.chunk.js.map": "/tyumen-777/etagitest/static/js/3.65ae8ec2.chunk.js.map",
+    "index.html": "/tyumen-777/etagitest/index.html",
+    "static/css/3.72de8ba4.chunk.css.map": "/tyumen-777/etagitest/static/css/3.72de8ba4.chunk.css.map",
+    "static/css/main.53250ccf.chunk.css.map": "/tyumen-777/etagitest/static/css/main.53250ccf.chunk.css.map",
+    "static/js/2.dfcb36b1.chunk.js.LICENSE.txt": "/tyumen-777/etagitest/static/js/2.dfcb36b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tyumen-777/etagitest/static/media/OpenSans-Regular.17e98b9e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9ee39f8.js",
+    "static/js/2.dfcb36b1.chunk.js",
+    "static/css/main.53250ccf.chunk.css",
+    "static/js/main.72925ee3.chunk.js"
+  ]
+}
