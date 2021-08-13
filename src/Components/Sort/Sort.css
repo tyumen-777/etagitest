@@ -1,0 +1,30 @@
+.sort {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.sort__buttons {
+    display: flex;
+}
+
+.sort__button {
+    width: 96px;
+    height: 36px;
+    background-color: #E8E8E8;
+    border-radius: 10px;
+    border: none;
+    font-size: 12px;
+    line-height: 16px;
+    margin-right: 15px;
+}
+
+.sort__button-more {
+    margin-top: 10px;
+    background-color: #E8E8E8;
+    border-radius: 10px;
+    border: none;
+    height: 36px;
+    margin-bottom: 10px;
+}

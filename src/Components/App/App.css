@@ -1,0 +1,7 @@
+@import url("../../fonts/fonts.css");
+
+.page {
+    font-family: "OpenSans", "Arial", "Helvetica", sans-serif;
+    background-color:#FAFAFA ;
+    min-height: 100vh;
+}
